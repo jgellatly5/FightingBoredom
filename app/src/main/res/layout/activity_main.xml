@@ -44,6 +44,7 @@
         android:id="@+id/activitySelector"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
+        android:entries="@array/choices_array"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="141dp" />
 

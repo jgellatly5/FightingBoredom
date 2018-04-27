@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choices_array">
+        <item>Find me a restaurant!</item>
+        <item>Find me a bar!</item>
+        <item>Find me a fun place!</item>
+    </string-array>
+</resources>
